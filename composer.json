@@ -1,0 +1,20 @@
+{
+    "name": "alterfw/php-form-generator",
+    "description": "This library has the goal of make simple the creation and population of HTML forms",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lucas Pelegrino",
+            "email": "lucas.wxp@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    },
+    "autoload": {
+        "classmap": [
+          "fg/load.php"
+        ]
+    }
+}
