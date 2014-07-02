@@ -13,8 +13,6 @@
 
     },
     "autoload": {
-        "classmap": [
-          "fg/load.php"
-        ]
+        "files": ["fg/load.php"]        
     }
 }
