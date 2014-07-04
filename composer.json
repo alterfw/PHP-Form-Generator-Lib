@@ -10,8 +10,5 @@
     ],
     "require": {
 
-    },
-    "autoload": {
-        "files": ["fg/load.php"]        
     }
 }
