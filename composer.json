@@ -8,7 +8,8 @@
             "email": "lucas.wxp@gmail.com"
         }
     ],
-    "require": {
+    "autoload": {
+      "files": ["fg/load.php"]
+    },
 
-    }
 }
